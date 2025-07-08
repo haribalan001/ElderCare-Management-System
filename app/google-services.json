@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341294976487",
+    "firebase_url": "https://eldercare-cefe3-default-rtdb.firebaseio.com",
+    "project_id": "eldercare-cefe3",
+    "storage_bucket": "eldercare-cefe3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341294976487:android:186c6f54161fa1cfe68142",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0zLvIG_dS1LPIV9oQh1SmxbPba3f2TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
